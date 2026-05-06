@@ -1,0 +1,2 @@
+# Basic-C-Algorithms-Mean-Median-Mode-Matrices-and-Text-Analysis
+AOA, My name is Malik Ahsan and currently i am doing my BS in mechatronics engineering from air university Islamabad. I have done my matric from sls Montessori school and college and after that i have done my FSC from fauji foundation college. I have chosen this degree because i have in trust in this because i like automation and to make things.
